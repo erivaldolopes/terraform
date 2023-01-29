@@ -1,1 +1,1 @@
-do_token = "dop_v1_49fdce9a6156e9f1fb4203741b2ea6ef47b9d8578296a556b3d7ca5189a74aaa"
+do_token = "xxx"
